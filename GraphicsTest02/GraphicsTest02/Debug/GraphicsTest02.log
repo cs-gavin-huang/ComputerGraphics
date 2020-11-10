@@ -1,0 +1,6 @@
+﻿  GraphicsTest02.cpp
+c:\users\mac\source\repos\graphicstest02\graphicstest02\dda.h(14): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+c:\users\mac\source\repos\graphicstest02\graphicstest02\dda.h(23): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+c:\users\mac\source\repos\graphicstest02\graphicstest02\dda.h(32): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+c:\users\mac\source\repos\graphicstest02\graphicstest02\bresenhamline.h(4): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+  GraphicsTest02.vcxproj -> C:\Users\mac\source\repos\GraphicsTest02\Debug\GraphicsTest02.exe
